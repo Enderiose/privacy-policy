@@ -1,5 +1,8 @@
 # 隐私政策（Privacy Policy）
 
+> **在线地址（应用市场提审用这个）**：<https://enderiose.github.io/privacy-policy/lottery.html>
+> 页源码：`lottery.html`（GitHub Pages，`main` 分支根目录）；本 `README.md` 为 Markdown 备份版。
+
 > 应用名称：彩票助手（HarmonyOS）
 > 包名：`com.enderstudio.lotteryassistant`
 > 版本：1.0.0　生效日期：2026-10-30
